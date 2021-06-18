@@ -32,5 +32,6 @@ function smallestCommons(arr) {
     
   }
   
+  console.log("me i am stubborn i want the to alter the main branch");
   
   smallestCommons([23,18]);
