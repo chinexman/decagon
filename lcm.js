@@ -29,6 +29,8 @@ function smallestCommons(arr) {
           break;
         }
       }
+
+console.log("This is another line added by kayode");
     
   }
   
